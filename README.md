@@ -3,8 +3,14 @@
 ## CONTACT
 [[LinkedIn]](https://www.linkedin.com/in/simon-chauvin/)
 
-## PAPER
-[[Paper]](https://github.com/chauvinSimon/Hierarchical-Decision-Making-for-Autonomous-Driving)
+## PAPER: "Hierarchical Decision-Making for Autonomous Driving"
+### [[Paper]](https://github.com/chauvinSimon/Hierarchical-Decision-Making-for-Autonomous-Driving/blob/master/(Pre-print)2018%20-%20Chauvin%20-%20Hierarchical%20Decision-Making%20for%20Autonomous%20Driving.pdf)
+
+### To cite this version:
+> -- <cite>Simon Chauvin, "Hierarchical Decision-Making for Autonomous Driving," Aug 2018</cite>
+
+### Overview
+![overview](https://github.com/chauvinSimon/Hierarchical-Decision-Making-for-Autonomous-Driving/blob/master/figures_and_overviews/0001.jpg)
 
 ## REFERENCES
 Last update: 2018-08-11
@@ -280,3 +286,4 @@ Last update: 2018-08-11
 [[pdf]](https://arxiv.org/pdf/1604.07446.pdf)
 
 **[91]**	S. Karaman, M. R. Walter, A. Perez, E. Frazzoli, and S. Teller, **"Anytime motion planning using the RRT,"** 2011.
+[[pdf]](https://dspace.mit.edu/openaccess-disseminate/1721.1/63170)
