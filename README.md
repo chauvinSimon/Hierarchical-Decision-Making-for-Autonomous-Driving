@@ -1,10 +1,10 @@
-# Hierarchical-Decision-Making-for-Autonomous-Driving
+## HIERARCHICAL DECISION-MAKING FOR AUTONOMOUS DRIVING
 
-## CONTACT
+### Contact
 [[LinkedIn]](https://www.linkedin.com/in/simon-chauvin/)
 
-## PAPER: "Hierarchical Decision-Making for Autonomous Driving"
-### [[Paper]](https://github.com/chauvinSimon/Hierarchical-Decision-Making-for-Autonomous-Driving/blob/master/(Pre-print)2018%20-%20Chauvin%20-%20Hierarchical%20Decision-Making%20for%20Autonomous%20Driving.pdf)
+### Versions
+..* [[Pre-Print - full version]](https://github.com/chauvinSimon/Hierarchical-Decision-Making-for-Autonomous-Driving/blob/master/(Pre-print)2018%20-%20Chauvin%20-%20Hierarchical%20Decision-Making%20for%20Autonomous%20Driving.pdf)
 
 ### To cite this version:
 > -- <cite>Simon Chauvin, "Hierarchical Decision-Making for Autonomous Driving," Aug 2018</cite>
@@ -13,7 +13,7 @@
 ![overview](https://github.com/chauvinSimon/Hierarchical-Decision-Making-for-Autonomous-Driving/blob/master/figures_and_overviews/0001.jpg)
 
 ## REFERENCES
-Last update: 2018-08-11
+-- Last update: 2018-08-11
 
 **[1]**	X. Geng, H. Liang, B. Yu, P. Zhao, L. He, and R. Huang, **"A Scenario-Adaptive Driving Behavior Prediction Approach to Urban Autonomous Driving,"** 2017.
 [[pdf]](www.mdpi.com/2076-3417/7/4/426/pdf)
