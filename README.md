@@ -3,12 +3,13 @@
 ### Contact
 - Please feel free to contact to share your feedbacks, ideas and experiences about Scene-Understanding and Decision-Making for autonomous driving
 - [[LinkedIn]](https://www.linkedin.com/in/simon-chauvin/)
+- [[ResearchGate]](https://www.researchgate.net/profile/Simon_Chauvin2)
 
 ### Versions
 - [[Pre-Print - full version]](https://github.com/chauvinSimon/Hierarchical-Decision-Making-for-Autonomous-Driving/blob/master/versions/(Pre-print)2018%20-%20Chauvin%20-%20Hierarchical%20Decision-Making%20for%20Autonomous%20Driving.pdf)
 
 ### To cite this version:
-> -- <cite>Simon Chauvin, "Hierarchical Decision-Making for Autonomous Driving," Aug 2018</cite>
+> -- <cite>Simon Chauvin, "Hierarchical Decision-Making for Autonomous Driving," Aug 2018, _DOI 10.13140/RG.2.2.24352.43526_</cite>
 
 ### Overview
 [![Overview](https://github.com/chauvinSimon/Hierarchical-Decision-Making-for-Autonomous-Driving/blob/master/figures_and_overviews/0001.jpg)](https://github.com/chauvinSimon/Hierarchical-Decision-Making-for-Autonomous-Driving/blob/master/versions/(Pre-print)2018%20-%20Chauvin%20-%20Hierarchical%20Decision-Making%20for%20Autonomous%20Driving.pdf)
